@@ -1,10 +1,10 @@
 <?php class conexion{
     #atributos que son propios del objeto
-    private $servidor ="localhost";
-    private $usuario ="root";
-    private $pass = "";
+    private $servidor ="us-cdbr-east-06.cleardb.net";
+    private $usuario ="bcdb148b380d16";
+    private $pass = "445b8f78";
     private $conexion;#objeto de tipo pdo, de la clase propia de php
-    private $base = "proyecto";
+    private $base = "heroku_43c52e67a39d3c2";
    
     public function __construct(){
         try{
