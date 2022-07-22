@@ -85,10 +85,7 @@
         <h4>"Ambos sitios webs fueron desarrollados como prácticas durante mi cursada Full Stack. Decidí que los mismos sean un servicio gratuito de útil información económica al público. Mi motivación corresponde a retribuirles por su apoyo a la educación pública y gratuita en la cual fui formado profesionalmente."</h4>
     </section>
 
-    <div class="container bg-dark">
-        
-            <h2 class="text-white ">Mi portfolio</h2>
-
+        <div class="container bg-dark">
             <div class ="row row-cols-1 row-cols-md-3 g-4">
                 <?php #leemos proyectos 1 por 1
                 foreach($proyectos as $proyecto){ ?>
