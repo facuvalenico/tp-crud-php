@@ -82,7 +82,7 @@
 
     <section id="main_section_introduccion">
         <h1>Mis Proyectos Webs.</h1><br>
-        <h4>"Ambos sitios webs fueron desarrollados como prácticas durante mi cursada Full Stack. Decidí que los mismos sean un servicio gratuito de útil información económica al público. Mi motivación corresponde a retribuirles por su apoyo a la educación pública y gratuita en la cual fui formado profesionalmente."</h4>
+        <h4>"Valor real y Monitor de Inversiones fueron sitios desarrollados como prácticas durante mi cursada Full Stack. Decidí que los mismos sean un servicio gratuito de útil información económica al público. Mi motivación corresponde a retribuirles por su apoyo a la educación pública y gratuita en la cual fui formado profesionalmente."</h4>
     </section>
 
         <div class="container bg-dark">
