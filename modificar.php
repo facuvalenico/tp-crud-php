@@ -39,6 +39,7 @@ if($_POST){
 ?>
 <?php #leemos proyectos 1 por 1
   foreach($proyecto as $fila){ ?>
+    <br><br><br><br><br><br>
     <div class="row d-flex justify-content-center mt-4 mb-5">
             <div class="col-md-10 col-sm-12">
                 <div class="card" style="background-color:#CDB3A6;">
