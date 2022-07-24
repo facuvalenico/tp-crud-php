@@ -22,7 +22,7 @@
     <link rel="icon" type="image/png" href="imagenes\favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/icono" href="imagenes\favicon-64x64.png" sizes="64x64">
     <link rel="STYLESHEET" href="cssestilos.css">
-    <title>Monitor de inversiones</title>
+    <title>Portfolio</title>
     <script src="https://kit.fontawesome.com/5412455fd2.js" crossorigin="anonymous"></script>
 
 </head>
