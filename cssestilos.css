@@ -127,7 +127,6 @@ header {
         margin-top: 4%;
         height: 100%;
     
-        
     }
 }
 
@@ -211,7 +210,7 @@ main {
         height: 100%;
         margin-bottom: 2%;
         display:block;
-             
+                     
     }
 }
 
@@ -335,7 +334,7 @@ main {
         padding-left: 5%;
         padding-right: 5%;
         margin-top: 3%;
-        text-align: center;
+        text-align: justify;
     }
 
 
@@ -425,10 +424,10 @@ main {
         height: auto; 
         width: 90%;
         word-wrap: break-word;
-        margin-left: 1%;
         margin-block: 0%;
         margin-top: 15%;
         margin-bottom: 15%;
+        text-align: justify;
                        
     }
     
@@ -446,7 +445,7 @@ main {
         height: auto;
         width:100%;
         object-fit: contain;
-        text-align:center;
+        text-align: justify;
         line-height: 1.4em;
         font-size: large;
     }
