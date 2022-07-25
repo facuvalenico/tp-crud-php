@@ -330,12 +330,12 @@ main {
         align-self:flex-start;
         justify-self: left;
         height: auto;    
-        width: 100%;
+        width: 90%;
         word-wrap: break-word;
         padding-left: 5%;
         padding-right: 5%;
         margin-top: 3%;
-        
+        text-align: center;
     }
 
 
@@ -423,7 +423,7 @@ main {
 @media screen and (min-width:601px) and (max-width:1199px) { 
     #main_section_introduccion {
         height: auto; 
-        width: 80%;
+        width: 90%;
         word-wrap: break-word;
         margin-left: 1%;
         margin-block: 0%;
@@ -446,7 +446,7 @@ main {
         height: auto;
         width:100%;
         object-fit: contain;
-        text-align:left;
+        text-align:center;
         line-height: 1.4em;
         font-size: large;
     }
