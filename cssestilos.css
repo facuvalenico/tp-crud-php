@@ -433,9 +433,9 @@ main {
     
     #main_section_introduccion h1{
         height: auto;
-        width:100%;
+        width:90%;
         object-fit: contain;
-        text-align:center;
+        text-align: justify;
         line-height: 1.4em;
         font-size:xx-large;
           
@@ -443,7 +443,7 @@ main {
     
     #main_section_introduccion h4{
         height: auto;
-        width:100%;
+        width:90%;
         object-fit: contain;
         text-align: justify;
         line-height: 1.4em;
