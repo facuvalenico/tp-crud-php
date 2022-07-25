@@ -91,7 +91,7 @@
                 foreach($proyectos as $proyecto){ ?>
                     <div class="col">
                         <div class="card border border-3 shadow w-100">
-                            <a>
+                            <a href="<?php echo $proyecto['link'];?>">
                                 <img class="card-img-top" width="100" src="img/<?php echo $proyecto['imagen'];?>" alt="">
                             </a>
                             <div class="card-body">
